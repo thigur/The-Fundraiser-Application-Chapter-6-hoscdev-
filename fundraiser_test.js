@@ -1,4 +1,4 @@
-//Chapter 5 Hands-On Smart Contract Development with Solidity and Ethereum
+//Chapter 6 Hands-On Smart Contract Development with Solidity and Ethereum
 
 const FundraiserContract = artifacts.require("Fundraiser");
 
